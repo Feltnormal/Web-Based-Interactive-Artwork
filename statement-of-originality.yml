@@ -1,0 +1,39 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Sentimood API - Ethan Arterberry
+    url: https://github.com/soops/sentimood
+    licence: MIT License
+
+code:
+  - comment: Used week 3 lab for Casey Reas process 10 to get line vector code
+    url: https://cs.anu.edu.au/courses/comp1720/labs/03-interpretation/
+    licence: MIT License
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: "Ambient Wave 31 by Erokia"
+    url: https://freesound.org/people/Erokia/sounds/419081/
+    licence: fair use
+assets:
+  - comment: "Beautiful Ambient Melody by PatrickLieberkind"
+    url: https://freesound.org/people/PatrickLieberkind/sounds/341541/
+    licence: fair use
+assets:
+  - comment: "Calm Background Organ by PatrickLieberkind"
+    url: https://freesound.org/people/PatrickLieberkind/sounds/214334/
+    licence: fair use
+
+
+# sign *your* name and uid here
+name: Gerard Huang
+uid: u6080257
